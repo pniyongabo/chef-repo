@@ -1,0 +1,3 @@
+[submodule "webserver-cookbook"]
+	path = cookbooks/webserver
+	url = https://github.com/pniyongabo/webserver-cookbook.git
